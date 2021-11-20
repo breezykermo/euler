@@ -1,0 +1,4 @@
+(executable
+ (name in_ocaml)
+ (libraries lib))
+
